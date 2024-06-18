@@ -35,7 +35,7 @@ const contact = () => {
       <ul class="flex space-x-4 px-32">
         <li><Link class="text-4xl text-gray-800 hover:text-gray-500 transition"><i class="fa fa-facebook-f"></i></Link></li>
         <li><Link class="text-4xl text-gray-800 hover:text-gray-500 transition"><i class="fa fa-twitter"></i></Link></li>
-        <li><Link to = "https://www.instagram.com/saurabh_maurya10/" class="text-4xl text-gray-800 hover:text-gray-500 transition"><i class="fa fa-instagram"></i></Link></li>
+        <li><Link to = "https://www.instagram.com/riyag4334/" class="text-4xl text-gray-800 hover:text-gray-500 transition"><i class="fa fa-instagram"></i></Link></li>
         <li><Link class="text-4xl text-gray-800 hover:text-gray-500 transition"><i class="fa fa-youtube"></i></Link></li>
       </ul>
     </ul>
